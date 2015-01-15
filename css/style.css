@@ -25,3 +25,7 @@ h1 {
 .btn {
   font-size: 1.4em;
 }
+
+.btn .fa {
+  margin-left: 10px;
+}
