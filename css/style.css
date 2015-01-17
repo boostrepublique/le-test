@@ -241,6 +241,10 @@ canvas {
     margin-bottom: 50px;
   }
 
+  .results h1 {
+    font-size: 2em;
+  }
+
   .results h1 i {
     font-size: 0.8em;
     line-height: 0.8em;
@@ -285,8 +289,12 @@ canvas {
             border-radius: 0;
   }
 
+  .results {
+    margin-bottom: 120px;
+  }
+
   .results .social {
-    position: absolute;
+    position: fixed;
     bottom: 0;
     left: 0;
     right: 0;
