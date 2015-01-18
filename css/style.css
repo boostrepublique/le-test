@@ -32,6 +32,20 @@ h1 i {
   font-style: normal;
 }
 
+h1 img {
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+  -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+      -ms-border-radius: 50%;
+          border-radius: 50%;
+  -webkit-box-shadow: 0px 0px 0px 5px #ddd;
+     -moz-box-shadow: 0px 0px 0px 5px #ddd;
+      -ms-box-shadow: 0px 0px 0px 5px #ddd;
+          box-shadow: 0px 0px 0px 5px #ddd;
+}
+
 .btn {
   font-size: 1.4em;
   padding: 10px 20px;
