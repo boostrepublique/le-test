@@ -207,7 +207,13 @@ h1 img {
 }
 
 .results img {
-  height: 500px;
+  height: 400px;
+}
+
+.results p {
+  font-size: 1.8em;
+  margin-top: 50px;
+  color: #999;
 }
 
 canvas {
@@ -308,7 +314,8 @@ canvas {
   }
 
   .results .social {
-    position: fixed;
+    position: relative;
+    margin-top: 50px;
     bottom: 0;
     left: 0;
     right: 0;
