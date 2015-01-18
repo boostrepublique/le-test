@@ -1,4 +1,4 @@
-var STEPS = 5;
+var STEPS = 6;
 var survey;
 
 jQuery(document).ready(function() {
